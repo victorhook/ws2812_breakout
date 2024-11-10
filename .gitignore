@@ -1,0 +1,6 @@
+*_prl
+*.lck
+*-cache
+*plt
+*backups/
+fabrication-toolkit-options.json
